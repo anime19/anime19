@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=anime19&show_icons=true&theme=radical) <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anime19)](https://github.com/anime19/github-readme-stats)
