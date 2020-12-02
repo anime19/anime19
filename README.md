@@ -1,5 +1,10 @@
 <h3> Hi there 👋</h3>
 
+![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=anime19&show_icons=true&theme=radical) <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anime19)](https://github.com/anime19/github-readme-stats)
+
 <h3> 👨💻 &nbsp;About Me 🖐 </h3>
 
 - 🤓 &nbsp; A senior undergraduate student with robust problem solving skills and proven experience in creating and designing software in a testdriven environment.
