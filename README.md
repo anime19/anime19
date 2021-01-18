@@ -24,6 +24,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-inactive?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-inactive?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-inactive?style=flat&logo=react)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-inactive?style=flat&logo=vue.js)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-inactive?style=flat&logo=spring&logoColor=brightgreen)
   
   
