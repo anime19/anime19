@@ -10,7 +10,7 @@
 - 🤓 &nbsp; A senior undergraduate student with robust problem solving skills and proven experience in creating and designing software in a testdriven environment.
 - 🎓 &nbsp; Studying Information Technology at Harcourt Butler Technical University Kanpur
 - 💼 &nbsp; Software Developer Intern @ Nettyfy Technologies
-- ✍️ &nbsp; Learning about Java Full Stack Development, Machine Learning and System Design.
+- ✍️ &nbsp; Currently I'm Learning about Java Full Stack Development, MERN Stack and Vue JS development.
 
 
 <h3> 🧰 &nbsp;My Preferred Tech Stack</h3>
