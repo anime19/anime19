@@ -7,8 +7,8 @@
 
 <h3> 👨💻 &nbsp;About Me 🖐 </h3>
 
-- 🤓 &nbsp; A senior undergraduate student with robust problem solving skills and proven experience in creating and designing software in a testdriven environment.
-- 🎓 &nbsp; Studying Information Technology at Harcourt Butler Technical University Kanpur
+- 🤓 &nbsp; An IT graduate with robust problem solving skills and proven experience in creating and designing software in a testdriven environment.
+- 💼 &nbsp; Currently working as a Software Engineer (Backend) at Paytm.
 - 💼 &nbsp; Former Intern @ HackerEarth
 - ✍️ &nbsp; Currently I'm Learning about Java Full Stack Development, MERN Stack and Vue JS development.
 
