@@ -8,7 +8,8 @@
 <h3> 👨💻 &nbsp;About Me 🖐 </h3>
 
 - 🤓 &nbsp; An IT graduate with robust problem solving skills and proven experience in creating and designing software in a testdriven environment.
-- 💼 &nbsp; Currently working as a Software Engineer (Backend) at Paytm.
+- 💼 &nbsp; Currently working as a Software Engineer at Walmart.
+- 💼 &nbsp; Former SWE @ Paytm
 - 💼 &nbsp; Former Intern @ HackerEarth
 - ✍️ &nbsp; Currently I'm Learning about Java Full Stack Development, MERN Stack and Vue JS development.
 
