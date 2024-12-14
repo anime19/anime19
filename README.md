@@ -1,52 +1,62 @@
-<h3> Hi there 👋</h3>
+### Hi there 👋
 
-![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=anime19&show_icons=true&theme=radical) <br>
+## 👨💻 About me
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anime19)](https://github.com/anime19/github-readme-stats)
-
-<h3> 👨💻 &nbsp;About Me 🖐 </h3>
-
-- 🤓 &nbsp; An IT graduate with robust problem solving skills and proven experience in creating and designing software in a testdriven environment.
-- 💼 &nbsp; Currently working as a Software Engineer at Walmart.
+- 🤓 &nbsp; An experienced software engineer with robust problem solving skills and proven experience in creating and designing software in a testdriven environment
+- 💼 &nbsp; Currently working as a Software Engineer 3 at Walmart
 - 💼 &nbsp; Former SWE @ Paytm
 - 💼 &nbsp; Former Intern @ HackerEarth
-- ✍️ &nbsp; Currently I'm Learning about Java Full Stack Development, MERN Stack and Vue JS development.
+- 🤓 &nbsp; I have a passion for problem solving and software development with a keen interest in new technologies and enjoy working outside of my comfort zone
+- ✍️ &nbsp; I am currently learning about Java development and cloud-based distributed computing
 
+<br/>
 
-<h3> 🧰 &nbsp;My Preferred Tech Stack</h3>
+## 🔭 I’m currently working on
+- Integrating Google Cloud Platform (GCP) for data retrieval from BigQuery (BQ) and managing backend operations
+
+<br/>
+
+## 🧰 &nbsp;My Preferred Tech Stack
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=Java&logoColor=blue)
   ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=yellow)
   
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-inactive?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-inactive?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-inactive?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-inactive?style=flat&logo=react)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-inactive?style=flat&logo=vue.js)
-  ![Node.js](https://img.shields.io/badge/-Node.js-inactive?style=flat&logo=node.js)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-inactive?style=flat&logo=spring&logoColor=brightgreen)
-  
-  
-  
+  ![Node.js](https://img.shields.io/badge/-Node.js-inactive?style=flat&logo=node.js)
   
 - 🔧 &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=plastic&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-ffffff?style=plastic&logo=sublime-text&logoColor=orange)
-  ![FileZilla](https://img.shields.io/badge/-FileZilla-ffffff?style=plastic&logo=filezilla&logoColor=red)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=blue)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <br/>
 
-<h3> 📪 &nbsp;How to reach me </h3>
+## 📪 &nbsp;How to reach me
 
 <p align="center">
 <a href="https://anime19.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-anime19.github.io-blue?style=plastic&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/animesh-shukla-142b30160"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Animesh%20Shukla-silver?style=plastic&logo=linkedin"></a>
 <a href="mailto:oneanimesh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oneanimesh@gmail.com-success?style=plastic&logo=gmail"></a>
 </p>
+
+<br/>
+
+## 👨💻 Some more info about me
+![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=anime19&show_icons=true&theme=radical) <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anime19)](https://github.com/anime19/github-readme-stats)
+
 
 
 
