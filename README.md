@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">Animesh Shukla</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=3F72AF&center=true&vCenter=true&width=500&lines=Software+Engineer+3;Always+Building%2C+Always+Learning" alt="Typing animation" />
+</p>
+
 ### Hi there 👋
 
 ## 👨💻 About me
@@ -52,11 +62,14 @@
 <br/>
 
 ## 👨💻 Some more info about me
-![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=anime19&show_icons=true&theme=radical) <br>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anime19&theme=tokyonight" width="90%"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anime19)](https://github.com/anime19/github-readme-stats)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 
 
